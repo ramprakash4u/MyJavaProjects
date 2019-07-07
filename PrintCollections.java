@@ -1,4 +1,4 @@
-package tricks;
+package Examples;
 
 import java.math.BigInteger;
 import java.util.ArrayList;
